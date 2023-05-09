@@ -1,0 +1,50 @@
+.main-Products > h1 {
+    font-size: 40px;
+    opacity: 75%;
+    text-align: center;
+}
+.main-users{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: space-around;
+row-gap: 20px;
+    
+    
+}
+.users-pro {
+    background-color: darkgrey;
+    border-radius: 10px;
+    width: 250px;
+}
+.users-pro > button{
+    font-size: 15px;
+display: flex;
+margin-top: 17px;
+margin-left: 190px;
+    padding: 10px;
+    border-style: none;
+border-radius: 20px;
+}
+.users-pro > button:hover{
+color: red;
+cursor: pointer;
+}
+.users-pro > img{
+    width: 100%;
+    border-radius: 3%;
+    flex-wrap: wrap;
+    
+}
+.users-pro >p{
+margin-left: 20px;
+    font-size: 14px;
+}
+.users-pro > div{
+    display: flex;
+    height: 10px;
+    margin-top:15px ;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+    align-items: center;
+}

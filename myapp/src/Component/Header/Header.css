@@ -1,0 +1,31 @@
+.logo-Bar{
+display: flex;
+flex-wrap: wrap;
+width:100%;
+flex-direction: row;
+height: 95px;
+align-items: center;
+gap: 30px;
+}
+.App-Logo{
+    width: 55px;
+    height: 52px;
+    margin-left:30px ;
+
+}
+.logo-text{
+    color:#F8B326;
+    font-style: normal;
+    font-size: 32px;
+}
+.logo-text > span{
+    color:#F61B5A ;
+}
+.user-logo{
+    font-size: 24px;
+    color: #5B6871;
+    margin-left: auto;
+    margin-right: 30px;
+    
+}
+

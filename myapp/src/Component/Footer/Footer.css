@@ -1,0 +1,22 @@
+.all-btn{
+border-radius: 20px;
+width: 150px;
+height: 40px;
+    font-size: 20px;
+    border-style: none;
+    text-transform: capitalize;
+    background-color:darkgray ;
+}
+.all-btn >a{
+    text-decoration: none;
+    color: #F61B5A;
+}
+.all-btn a:hover{
+color: #F8B326;
+}
+.main-fot{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
