@@ -4,7 +4,7 @@ import './Footer.css'
 const Footer  =() => {
     return(
     <div className='main-fot'>
-      <button className='all-btn'><a href='/#'>see more</a></button>
+      <button className='all-btn'><a href='/Products'>see more</a></button>
     </div>
     )
 }
